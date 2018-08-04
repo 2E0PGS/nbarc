@@ -1,0 +1,6 @@
+# General options.
+title: NBARC
+description: Testing website.
+
+# Build options.
+theme: jekyll-theme-midnight
