@@ -1,7 +1,6 @@
 ---
 title: Home
 description: Homepage
-nav: true
 ---
 
 {% include nav.md %}

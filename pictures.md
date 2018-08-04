@@ -8,8 +8,4 @@ nav: true
 
 # Pictures
 
-{% for image in site.static_files %}
-	{% if image.path contains 'images/collection' %}
-		<img src="{{ site.baseurl }}{{ image.path }}" alt="image" />
-	{% endif %}
-{% endfor %}
+{% for image in site.static_files %}{% if image.path contains 'images/collection' %}<img src="{{ site.baseurl }}{{ image.path }}" alt="image" />{% endif %}{% endfor %}
