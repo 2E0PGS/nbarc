@@ -45,7 +45,7 @@ Paul Stevenson - G8YMM
 
 Telephone: 07921942922
 
-Email: g8ymm@nbarc.org.uk
+Email: [g8ymm@nbarc.org.uk](mailto:g8ymm@nbarc.org.uk)
 
 ### Club address
 ​
