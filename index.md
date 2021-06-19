@@ -5,7 +5,7 @@ description: Homepage
 
 {% include main-template.md %}
 
-# Welcome to NBARC test site
+# Welcome to NBARC website
 
 ## About us
 
