@@ -4,7 +4,7 @@ description: Links
 nav: true
 ---
 
-{% include nav.md %}
+{% include main-template.md %}
 
 # Links
 

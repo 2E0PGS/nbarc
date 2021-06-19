@@ -4,7 +4,7 @@ description: Membership
 nav: true
 ---
 
-{% include nav.md %}
+{% include main-template.md %}
 
 # Membership
 
