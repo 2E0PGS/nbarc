@@ -24,8 +24,7 @@ nav: true
 
 ### Courses
 
-The foundation, intermediate and full radio amateur courses are being taught at the club. However, they are subject to availability so please contact: [Paul Stevenson (G8YMM)]()
-Membership status
+The foundation, intermediate and full radio amateur courses are being taught at the club. However, they are subject to availability so please contact: [Paul Stevenson (G8YMM)]({{ site.baseurl }}/contact)
 
 ### Membership status
 

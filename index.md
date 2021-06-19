@@ -17,18 +17,17 @@ Activities include training courses, radio operation, talks, contests, construct
 
 Who can attend the club? Well anyone that is interested in Radio.
 
-To find out more about Amateur Radio visit the Radio Society of Great Britain (R.S.G.B) website: [rsgb.org](https://rsgb.org/)
+To find out more about Amateur Radio visit the Radio Society of Great Britain (R.S.G.B) website: [rsgb.org](https://rsgb.org/){:target="_blank"}
 
 ## Announcements
 
-* ​Join our new mailing list: [CLICKME](https://groups.google.com/forum/?nomobile=true#!forum/mx0nbc/join)
-* Subscribe via RSS feed instead: [CLICKME​](https://groups.google.com/forum/feed/mx0nbc/msgs/rss.xml?num=15)
+* ​Join our new mailing list: [CLICKME](https://groups.google.com/forum/?nomobile=true#!forum/mx0nbc/join){:target="_blank"}
+* Subscribe via RSS feed instead: [CLICKME​](https://groups.google.com/forum/feed/mx0nbc/msgs/rss.xml?num=15){:target="_blank"}
 * GB3AC is now operating from NBARC: `RX: 430.975 | TX: 438.575 | CTCSS: 94.8Hz`
-* Test link only: [rsgb.org](https://rsgb.org/){:target="_blank"}
 
 ## Upcoming talks and events
 
-* ​Q5 for June 2021 released under "Literature" section. Click here to view.
+* ​Q5 for June 2021 released under [Literature]({{ site.baseurl }}/literature) section.
 
 ## Club nets
 
