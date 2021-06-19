@@ -19,7 +19,7 @@ Who can attend the club? Well anyone that is interested in Radio.
 
 To find out more about Amateur Radio visit the Radio Society of Great Britain (R.S.G.B) website: [rsgb.org](https://rsgb.org/){:target="_blank"}
 
-{% for q5 in site.static_files reversed %}{% if q5.path contains 'q5/collection' %}<a href="{{ site.baseurl }}{{ q5.path }}" target="_blank" class="button">Click for latest Q5 newsletter</a><br/>{% break %}{% endif %}{% endfor %}
+{% for q5 in site.static_files reversed %}{% if q5.path contains 'q5/collection' %}<a href="{{ site.baseurl }}{{ q5.path }}" target="_blank" class="button">Click for latest Q5 newsletter</a><br/>{% break %}{% endif %}{% endfor %} | {% for programme in site.static_files reversed %}{% if programme.path contains 'programme/collection' %}<a href="{{ site.baseurl }}{{ programme.path }}" target="_blank" class="button">Click for latest programme</a><br/>{% break %}{% endif %}{% endfor %}
 
 ## Announcements
 
