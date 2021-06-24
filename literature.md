@@ -8,10 +8,6 @@ nav: true
 
 # Literature
 
-## Latest club programme
-
-TBA
-
 ## Articles
 
 TBA
