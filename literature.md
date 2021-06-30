@@ -10,12 +10,14 @@ nav: true
 
 ## Articles
 
-Ashton Windmills On The Air (11th - 12th may 2019)
+### Ashton Windmills On The Air (11th - 12th may 2019)
+
 > by Rocky (M6VRL)
 
 <a href="{{ site.baseurl }}/assets/articles/ashton-windmill.pdf" target="_blank">ashton-windmill.pdf</a>
 
-DMR radio guide
+### DMR radio guide
+
 > by Yaesu
 
 <a href="{{ site.baseurl }}/assets/articles/digitalcommunicationsguide-e1.pdf" target="_blank">digitalcommunicationsguide-e1.pdf</a>
