@@ -16,4 +16,4 @@ For older photos see the archive: [Picture archive](https://nbarc.weebly.com/pic
 
 ## Gallery
 
-{% for image in site.static_files %}{% if image.path contains 'images/collection' %}<img src="{{ site.baseurl }}{{ image.path }}" alt="image" height="400px" width="auto"/><br/>{% endif %}{% endfor %}
+{% for image in site.static_files reversed %}{% if image.path contains 'images/collection' %}<img src="{{ site.baseurl }}{{ image.path }}" alt="image" height="400px" width="auto"/><br/>{% endif %}{% endfor %}
