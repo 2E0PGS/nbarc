@@ -36,6 +36,18 @@ nav: true
 
 <a href="{{ site.baseurl }}/assets/talks/2018-vswr-lecture/vswr-lecture.pdf" target="_blank">vswr-lecture.pdf</a> | <a href="{{ site.baseurl }}/assets/talks/2018-vswr-lecture/vswr-lecture.pptx" target="_blank">vswr-lecture.pptx</a> | <a href="{{ site.baseurl }}/assets/talks/2018-vswr-lecture/vswr-lecture-ladder-diagram.xlsx" target="_blank">vswr-lecture-ladder-diagram.xlsx</a>
 
+### Space and not the gap between your ears (May 2018)
+
+> by Dennis Buchan (M6EZX)
+
+<a href="{{ site.baseurl }}/assets/talks/2018-space-and-not-the-gap-between-your-ears/space-and-not-the-gap-between-your-ears.pdf" target="_blank">space-and-not-the-gap-between-your-ears.pdf</a> | <a href="{{ site.baseurl }}/assets/talks/2018-space-and-not-the-gap-between-your-ears/space-and-not-the-gap-between-your-ears.pptx" target="_blank">space-and-not-the-gap-between-your-ears.pptx</a>
+
+### BBHN HSMM (Amateur Radio Mesh Data Network) (2017)
+
+> by Peter Stevenson (2E0PGS), Martin Man (G7NSY) and Rob Thompson (2E0RPT)
+
+<a href="{{ site.baseurl }}/assets/talks/2017-bbhn-hsmm-intro-talk/bbhn-hsmm-intro-talk.pdf" target="_blank">bbhn-hsmm-intro-talk.pdf</a> | <a href="{{ site.baseurl }}/assets/talks/2017-bbhn-hsmm-intro-talk/bbhn-hsmm-intro-talk.pptx" target="_blank">bbhn-hsmm-intro-talk.pptx</a>
+
 ## Q5
 
 Our Q5 newsletter sorted newest at the top.
