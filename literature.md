@@ -14,13 +14,13 @@ nav: true
 
 > by Rocky (M6VRL)
 
-<a href="{{ site.baseurl }}/assets/articles/ashton-windmill.pdf" target="_blank">ashton-windmill.pdf</a>
+<a href="{{ site.baseurl }}/assets/articles/ashton-windmill.pdf" target="_blank">ashton-windmill.pdf</a> |
 
 ### DMR radio guide
 
 > by Yaesu
 
-<a href="{{ site.baseurl }}/assets/articles/digitalcommunicationsguide-e1.pdf" target="_blank">digitalcommunicationsguide-e1.pdf</a>
+<a href="{{ site.baseurl }}/assets/articles/digitalcommunicationsguide-e1.pdf" target="_blank">digitalcommunicationsguide-e1.pdf</a> |
 
 ## Talks
 
@@ -28,13 +28,13 @@ nav: true
 
 > by Peter Stevenson (2E0PGS)
 
-<a href="{{ site.baseurl }}/assets/articles/2019-ip-and-com-ports-for-radio/ip-and-com-ports-for-radio-animated.pdf" target="_blank">ip-and-com-ports-for-radio-animated.pdf</a> | <a href="{{ site.baseurl }}/assets/articles/2019-ip-and-com-ports-for-radio/ip-and-com-ports-for-radio-animated.odp" target="_blank">ip-and-com-ports-for-radio-animated.odp</a>
+<a href="{{ site.baseurl }}/assets/talks/2019-ip-and-com-ports-for-radio/ip-and-com-ports-for-radio-animated.pdf" target="_blank">ip-and-com-ports-for-radio-animated.pdf</a> | <a href="{{ site.baseurl }}/assets/talks/2019-ip-and-com-ports-for-radio/ip-and-com-ports-for-radio-animated.odp" target="_blank">ip-and-com-ports-for-radio-animated.odp</a>
 
 ### VSWR lecture (March 2018)
 
 > by Dennis Buchan (M6EZX)
 
-<a href="{{ site.baseurl }}/assets/articles/2018-vswr-lecture/vswr-lecture.pdf" target="_blank">vswr-lecture.pdf</a> | <a href="{{ site.baseurl }}/assets/articles/2018-vswr-lecture/vswr-lecture.pptx" target="_blank">vswr-lecture.pptx</a> | <a href="{{ site.baseurl }}/assets/articles/2018-vswr-lecture/vswr-lecture-ladder-diagram.xlsx" target="_blank">vswr-lecture-ladder-diagram.xlsx</a>
+<a href="{{ site.baseurl }}/assets/talks/2018-vswr-lecture/vswr-lecture.pdf" target="_blank">vswr-lecture.pdf</a> | <a href="{{ site.baseurl }}/assets/talks/2018-vswr-lecture/vswr-lecture.pptx" target="_blank">vswr-lecture.pptx</a> | <a href="{{ site.baseurl }}/assets/talks/2018-vswr-lecture/vswr-lecture-ladder-diagram.xlsx" target="_blank">vswr-lecture-ladder-diagram.xlsx</a>
 
 ## Q5
 
