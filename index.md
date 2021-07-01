@@ -30,7 +30,7 @@ To find out more about Amateur Radio visit the Radio Society of Great Britain (R
 
 ## Upcoming talks and events
 
-* <p style="color: orangered;">Wiltshire Radio Rally, Electronics Fair & Car Boot sale which is planned to go ahead on Sunday 1st August 2021: [CLICKME](https://www.facebook.com/WiltshireRadioRally/){:target="_blank"}</p>
+* <p style="color: orangered;">Wiltshire Radio Rally, Electronics Fair & Car Boot sale which is planned to go ahead on Sunday 1st August 2021:</p> [CLICKME](https://www.facebook.com/WiltshireRadioRally/){:target="_blank"}
 * ​Q5 for June 2021 released under [Literature]({{ site.baseurl }}/literature) section.
 
 ## Club nets
