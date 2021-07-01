@@ -23,13 +23,14 @@ To find out more about Amateur Radio visit the Radio Society of Great Britain (R
 
 ## Announcements
 
+* <p style="color: orangered;">We're not meeting this Friday the 2nd of July 2021 however we're planning to meet next Friday in a more social setting such as a pub garden. Further updates will be supplied nearer the time.</p>
 * ​Join our new mailing list: [CLICKME](https://groups.google.com/forum/?nomobile=true#!forum/mx0nbc/join){:target="_blank"}
 * Subscribe via RSS feed instead: [CLICKME​](https://groups.google.com/forum/feed/mx0nbc/msgs/rss.xml?num=15){:target="_blank"}
 * GB3AC is now operating from NBARC: `RX: 430.975 | TX: 438.575 | CTCSS: 94.8Hz`
 
 ## Upcoming talks and events
 
-* Wiltshire Radio Rally, Electronics Fair & Car Boot sale which is planned to go ahead on Sunday 1st August 2021: [CLICKME](https://www.facebook.com/WiltshireRadioRally/){:target="_blank"}
+* <p style="color: orangered;">Wiltshire Radio Rally, Electronics Fair & Car Boot sale which is planned to go ahead on Sunday 1st August 2021: [CLICKME](https://www.facebook.com/WiltshireRadioRally/){:target="_blank"}</p>
 * ​Q5 for June 2021 released under [Literature]({{ site.baseurl }}/literature) section.
 
 ## Club nets
