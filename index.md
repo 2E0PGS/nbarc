@@ -23,7 +23,7 @@ To find out more about Amateur Radio visit the Radio Society of Great Britain (R
 
 ## Announcements
 
-* <div style="color: orangered;">Friday 9th July 2021 we will be meeting at: Inn on the Green, Filton Rd. Front pub garden at 7:15 PM local time: <a href="https://goo.gl/maps/dW6KrfwqWCe9K1Bw5" target="_blank">CLICKME</a></div>
+* <div style="color: orangered;">Just a notice that there is no meet up tonight the 16th July 2021. However we're planning something again soon.</div>
 * ​Join our new mailing list: [CLICKME](https://groups.google.com/forum/?nomobile=true#!forum/mx0nbc/join){:target="_blank"}
 * Subscribe via RSS feed instead: [CLICKME​](https://groups.google.com/forum/feed/mx0nbc/msgs/rss.xml?num=15){:target="_blank"}
 * GB3AC is now operating from NBARC: `RX: 430.975 | TX: 438.575 | CTCSS: 94.8Hz`
