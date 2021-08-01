@@ -23,7 +23,7 @@ To find out more about Amateur Radio visit the Radio Society of Great Britain (R
 
 ## Announcements
 
-* <div style="color: orangered;">We're planning to meet up thisFriday the 23rd of July 2021 at 19:00 local time at Elm Park in Filton.</div>
+* <div style="color: orangered;">We're intending to open the club on Friday the 6th of August 2021. Please see the latest Q5 for more information.</div>
 * ​Join our new mailing list: [CLICKME](https://groups.google.com/forum/?nomobile=true#!forum/mx0nbc/join){:target="_blank"}
 * Subscribe via RSS feed instead: [CLICKME​](https://groups.google.com/forum/feed/mx0nbc/msgs/rss.xml?num=15){:target="_blank"}
 * GB3AC is now operating from NBARC: `RX: 430.975 | TX: 438.575 | CTCSS: 94.8Hz`
