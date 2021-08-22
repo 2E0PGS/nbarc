@@ -25,10 +25,3 @@ nav: true
 ### Courses
 
 The foundation, intermediate and full radio amateur courses are being taught at the club. However, they are subject to availability so please contact: [Paul Stevenson (G8YMM)]({{ site.baseurl }}/contact)
-
-### Membership status
-
-| Callsign | Type    | Expires    |
-|----------|---------|------------|
-| 2E0PGS   | Family  | 05/01/2020 |
-| M3PGS    | Regular | 05/01/2021 |
