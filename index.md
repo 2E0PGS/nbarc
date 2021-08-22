@@ -30,8 +30,9 @@ To find out more about Amateur Radio visit the Radio Society of Great Britain (R
 
 ## Upcoming talks and events
 
-* <div style="color: orangered;">Wiltshire Radio Rally, Electronics Fair & Car Boot sale which is planned to go ahead on Sunday 1st August 2021: <a href="https://www.facebook.com/WiltshireRadioRally/" target="_blank">CLICKME</a></div>
-* ​Q5 for July 2021 released under [Literature]({{ site.baseurl }}/literature) section.
+* Lighthouses & lightships on the air. This is to take place on the weekend of August 21st & 22nd.
+* Churches/chapels on the air will go ahead on Saturday Sept 11th 10am to 4pm.
+* Railways on the air on sept 25th and 26th.
 
 ## Club nets
 
