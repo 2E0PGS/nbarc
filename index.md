@@ -30,15 +30,12 @@ To find out more about Amateur Radio visit the Radio Society of Great Britain (R
 
 ## Upcoming talks and events
 
-* Lighthouses & lightships on the air. This is to take place on the weekend of August 21st & 22nd.
 * Churches/chapels on the air will go ahead on Saturday Sept 11th 10am to 4pm.
 * Railways on the air on sept 25th and 26th.
 
 ## Club nets
 
 * ​GB3BS Wednesdays 8pm - 9pm (local time).
-* GB3BS Friday 7pm - 8pm (local time).
-* GB3BS Sundays 8pm - 9pm (local time).
 
 ## Contact us
 

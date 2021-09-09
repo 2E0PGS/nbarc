@@ -8,6 +8,8 @@ nav: true
 
 # Contact us
 
+{% include contact-form.html %}
+
 ## The chairman
 
 Paul Stevenson G8YMM 
