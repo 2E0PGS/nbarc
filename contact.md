@@ -8,8 +8,6 @@ nav: true
 
 # Contact us
 
-{% include contact-form.html %}
-
 ## The chairman
 
 Paul Stevenson G8YMM 
@@ -28,3 +26,5 @@ BS7 0TD,<br>
 United Kingdom
 
 Coordinates: `Latitude: 51.501493 Longitude: -2.580307`
+
+{% include contact-form.html %}
