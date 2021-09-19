@@ -30,8 +30,8 @@ To find out more about Amateur Radio visit the Radio Society of Great Britain (R
 
 ## Upcoming talks and events
 
-* Churches/chapels on the air will go ahead on Saturday Sept 11th 10am to 4pm.
-* Railways on the air on sept 25th and 26th.
+* Railways On The Air - September 25th - 26th 2021. Bitton Railway, see Q5 for more info.
+* EGM (Extraordinary General Meeting) - 15th October 2021 at 8PM. SHE 7.
 
 ## Club nets
 
