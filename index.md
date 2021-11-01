@@ -31,9 +31,8 @@ To find out more about Amateur Radio visit the Radio Society of Great Britain (R
 
 ## Upcoming talks and events
 
-* Simple HF Antennas Tips and Tricks by Dave, G7BYN. 1st October 2021.
-* EGM (Extraordinary General Meeting) - 15th October 2021 at 8PM. SHE 7.
-* Talk on 3d Printing by John, G4WOD. 22nd October 2021.
+* RF separation. Using the RSGB Spread Sheet. November 12th 2021.
+* Great Shack Clear out Bring and buy. November 26th 2021.
 
 ## Club nets
 
