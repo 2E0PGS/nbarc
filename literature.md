@@ -59,3 +59,9 @@ Our Q5 newsletter sorted newest at the top.
 Our club programme sorted newest at the top.
 
 {% for programme in site.static_files reversed %}{% if programme.path contains 'programme/collection' %}<a href="{{ site.baseurl }}{{ programme.path }}" target="_blank">{{ programme.name }}</a><br/>{% endif %}{% endfor %}
+
+## NBARC documentation
+
+### Privacy policy
+
+<a href="{{ site.baseurl }}/assets/2021-privacy-policy.pdf" target="_blank">2021-privacy-policy.pdf</a>
