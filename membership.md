@@ -12,15 +12,15 @@ nav: true
 
 ### Regular
 
-£95/year one off payment or
+£30/year and £2 weekly entrance fee (pay as you go).
 
-£30/year and £1.50 weekly entrance fee (pay as you go)
+Alternatively a lump sum £120/year and £0 weekly entrance fee.
 
 ### Family
 
-£140/year one off payment or
+_£45/year and £2 weekly entrance fee (pay as you go)._
 
-£45/year and £2 weekly entrance fee
+_Alternatively a lump sum £140/year and £0 weekly entrance fee._
 
 ### Courses
 
