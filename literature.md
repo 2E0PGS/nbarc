@@ -70,6 +70,4 @@ Our club programme sorted newest at the top.
 
 Log of previous club events and field days.
 
-{% for post in site.posts %}
-	{{ post.date | date: "%Y-%m-%d" }} <a href="{{ post.url }}">{{ post.title }}</a>
-{% endfor %}
+{% for post in site.posts %}{{ post.date | date: "%Y-%m-%d" }} <a href="{{ post.url }}">{{ post.title }}</a>{% endfor %}
