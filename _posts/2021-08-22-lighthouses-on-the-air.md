@@ -5,6 +5,12 @@ author: Peter Stevenson
 categories: events
 ---
 
+# Lighthoues on the air
+
+GB0AVL
+
+Avonmouth Lights Lighthouses On The Air
+
 | Callsign | Date       | Band | Mode | Grid     | Name              |
 |----------|------------|------|------|----------|-------------------|
 | DJ7ED    | 2021-08-22 | 40m  | LSB  | JO31lh   | Walter Moese      |
