@@ -31,7 +31,6 @@ To find out more about Amateur Radio visit the Radio Society of Great Britain (R
 
 ## Upcoming talks and events
 
-* RF separation. Using the RSGB Spread Sheet. November 12th 2021.
 * Great Shack Clear out Bring and buy. November 26th 2021.
 
 ## Club nets
