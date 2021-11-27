@@ -20,7 +20,7 @@ nav: true
 
 > by Yaesu
 
-<a href="{{ site.baseurl }}/assets/articles/digitalcommunicationsguide-e1.pdf" target="_blank">digitalcommunicationsguide-e1.pdf</a> |
+<a href="{{ site.baseurl }}/assets/articles/digital-communications-guide-e1.pdf" target="_blank">digital-communications-guide-e1.pdf</a> |
 
 ## Talks
 
