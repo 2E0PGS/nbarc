@@ -25,6 +25,10 @@ BS7 0TD,
 United Kingdom
 ```
 
-Coordinates: `Latitude: 51.501493 Longitude: -2.580307`
+### Coordinates
+
+```
+Latitude: 51.501493 Longitude: -2.580307
+```
 
 {% include contact-form.html %}
