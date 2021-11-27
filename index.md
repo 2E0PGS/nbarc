@@ -31,7 +31,10 @@ To find out more about Amateur Radio visit the Radio Society of Great Britain (R
 
 ## Upcoming talks and events
 
-* Great Shack Clear out Bring and buy. November 26th 2021.
+* <div style="color: limegreen;">Annual Christmas party takes place on the 17th December 2021 at 7pm.</div>
+* <div style="color: orangered;">Two weeks notice is hereby given from 26th November 2021 to buy tickets at £6pp.</div>
+* <div style="color: limegreen;">Food, drinks, raffles and hampers. </div>
+* <div style="color: orangered;">Tickets are for members and partners of members only.</div>
 
 ## Club nets
 
@@ -41,11 +44,9 @@ To find out more about Amateur Radio visit the Radio Society of Great Britain (R
 
 ### The chairman
 
-Paul Stevenson - G8YMM 
-
-Telephone: 07921942922
-
-Email: [g8ymm@nbarc.org.uk](mailto:g8ymm@nbarc.org.uk)
+* Paul Stevenson (G8YMM)
+* Telephone: 07921942922
+* Email: [g8ymm@nbarc.org.uk](mailto:g8ymm@nbarc.org.uk)
 
 ### Club address
 ​
