@@ -31,7 +31,6 @@ To find out more about Amateur Radio visit the Radio Society of Great Britain (R
 
 ## Upcoming talks and events
 
-* January 14th General Club Night
 * January 21st General Club Night (Committee Meeting)
 * January 28th AGM
 * February 4th General Club Night
