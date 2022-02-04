@@ -24,11 +24,10 @@ To find out more about Amateur Radio visit the Radio Society of Great Britain (R
 ## Announcements
 
 * <div style="color: orangered;">We're now back to meeting every Friday at SHE 7!</div>
-* <div style="color: orangered;">Latest programme information is contained in the latest Q5 above until we write the new 2022 programme.</div>
 * ​Join our new mailing list: [CLICKME](https://groups.google.com/forum/?nomobile=true#!forum/mx0nbc/join){:target="_blank"}
 * Subscribe via RSS feed instead: [CLICKME​](https://groups.google.com/forum/feed/mx0nbc/msgs/rss.xml?num=15){:target="_blank"}
 * GB3AC is now operating from NBARC: `RX: 430.975 | TX: 438.575 | CTCSS: 94.8Hz`
-* Training for the Advance licence is to start the 2nd week of February 2022.
+* <div style="color: orangered;">Training for the Advance licence is to start the 2nd week of February 2022.</div>
 
 ## Upcoming talks and events
 
