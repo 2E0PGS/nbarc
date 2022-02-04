@@ -17,3 +17,5 @@ nav: true
 * [IRC chat room​](https://nbarc.weebly.com/irc.html){:target="_blank"}
 * [Mailing list](https://groups.google.com/forum/?nomobile=true#!forum/mx0nbc/join){:target="_blank"}
 * [RSS feed](https://groups.google.com/forum/feed/mx0nbc/msgs/rss.xml?num=15){:target="_blank"}
+* [South Gloucestershire Repeaters](http://sgrepeaters.co.uk/)
+* [BRISTOL 70cms REPEATER GROUP](https://gb7bs.com/)
