@@ -5,6 +5,8 @@ author: Peter Stevenson
 categories: events
 ---
 
+{% include main-template.md %}
+
 # Lighthoues on the air
 
 GB0AVL

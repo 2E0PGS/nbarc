@@ -66,8 +66,8 @@ Our club programme sorted newest at the top.
 
 <a href="{{ site.baseurl }}/assets/2021-privacy-policy.pdf" target="_blank">2021-privacy-policy.pdf</a>
 
-## Events
+<!--## Events
 
 Log of previous club events and field days.
 
-{% for post in site.posts %}{{ post.date | date: "%Y-%m-%d" }} <a href="{{ post.url }}">{{ post.title }}</a>{% endfor %}
+{% for post in site.posts %}{{ post.date | date: "%Y-%m-%d" }} <a href="{{ post.url }}">{{ post.title }}</a>{% endfor %}-->

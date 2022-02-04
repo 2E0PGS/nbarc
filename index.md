@@ -28,13 +28,12 @@ To find out more about Amateur Radio visit the Radio Society of Great Britain (R
 * ​Join our new mailing list: [CLICKME](https://groups.google.com/forum/?nomobile=true#!forum/mx0nbc/join){:target="_blank"}
 * Subscribe via RSS feed instead: [CLICKME​](https://groups.google.com/forum/feed/mx0nbc/msgs/rss.xml?num=15){:target="_blank"}
 * GB3AC is now operating from NBARC: `RX: 430.975 | TX: 438.575 | CTCSS: 94.8Hz`
+* Training for the Advance licence is to start the 2nd week of February 2022.
 
 ## Upcoming talks and events
 
-* January 21st General Club Night (Committee Meeting)
-* January 28th AGM
-* February 4th General Club Night
-* February 1 Round Table
+* February 4th - General Club Night
+* February 11th - Space Missions by Dennis (M0IYQ)
 
 ## Club nets
 
