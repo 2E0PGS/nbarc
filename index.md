@@ -35,6 +35,11 @@ To find out more about Amateur Radio visit the Radio Society of Great Britain (R
 * February 4th - General Club Night
 * February 11th - Space Missions by Dennis (M0IYQ)
 
+## Courses
+
+* <div style="color: orangered;">Training for the Advance licence is to start the 2nd week of February 2022.</div>
+* Contact our Training Manager: Ian Conibear (G4TAH) for more info: [training@nbarc.org.uk](mailto:training@nbarc.org.uk)
+
 ## Club nets
 
 * ​GB3BS Wednesdays 8pm - 9pm (local time).
