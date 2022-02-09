@@ -17,7 +17,7 @@ More recently we had a basement shack. Which later became semi non-operational d
 
 At the time of writing we're setting up a "new new" up stairs main room shack. This means brand new coax runs of high quality cable, new wall sockets, workbenches, rotator cable and much more.
 
-Below are a few images of the out of hours work Paul (G8YMM), Luke (M3___) and myself Peter (2E0PGS) gave a hand with.
+Below are a few images of the out of hours work Paul (G8YMM), Luke (M3VHV) and myself Peter (2E0PGS) gave a hand with.
 
 Thanks to those who turned up for moral support. Rickie () and Alan (G7DRU).
 
