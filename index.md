@@ -31,8 +31,8 @@ To find out more about Amateur Radio visit the Radio Society of Great Britain (R
 
 ## Upcoming talks and events
 
-* February 4th - General Club Night
-* February 11th - Space Missions by Dennis (M0IYQ)
+* March 18th - Show & Tell. Bring Your Latest Project or Purchase
+* March 25th - Talk on the Balun & UnUn By Dr. Tony Hawker, G4CJZ
 
 ## Courses
 
