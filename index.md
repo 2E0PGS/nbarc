@@ -31,8 +31,9 @@ To find out more about Amateur Radio visit the Radio Society of Great Britain (R
 
 ## Upcoming talks and events
 
-* March 18th - Show & Tell. Bring Your Latest Project or Purchase
-* March 25th - Talk on the Balun & UnUn By Dr. Tony Hawker, G4CJZ
+* April 8th - Round Table. Your questions answered.
+* April 15th - Good Friday. No meeting.
+* April 22nd - Shack night.
 
 ## Courses
 
