@@ -31,9 +31,11 @@ To find out more about Amateur Radio visit the Radio Society of Great Britain (R
 
 ## Upcoming talks and events
 
-* April 8th - Round Table. Your questions answered.
-* April 15th - Good Friday. No meeting.
-* April 22nd - Shack night.
+* May 6th General Meeting (Collect Kit For Tomorrows event Training
+* May 7th - 8th Mills on the air at Ashton Mill (Saturday And Sunday)
+* May 13th Large Bring & buy Tabletop Sale
+* May 20th Shack Night. Have a play in the shack Training
+* May 27th Live Demonstration Communicating with QO-100 by G3ZXX
 
 ## Courses
 
