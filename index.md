@@ -31,11 +31,10 @@ To find out more about Amateur Radio visit the Radio Society of Great Britain (R
 
 ## Upcoming talks and events
 
-* May 6th General Meeting (Collect Kit For Tomorrows event Training
-* May 7th - 8th Mills on the air at Ashton Mill (Saturday And Sunday)
-* May 13th Large Bring & buy Tabletop Sale
-* May 20th Shack Night. Have a play in the shack Training
-* May 27th Live Demonstration Communicating with QO-100 by G3ZXX
+* August 5th Shack Maintenance + Training
+* August 12th Show and Tell, bring along anything of interest. A small prise for generating the most interest.
+* August 19th General Meeting + Training
+* August 26th Round Table. Find an expert to answer your questions.
 
 ## Courses
 
@@ -45,6 +44,8 @@ To find out more about Amateur Radio visit the Radio Society of Great Britain (R
 ## Club nets
 
 * ​GB3BS Wednesdays 8pm - 9pm (local time).
+* GB3BS Sundays 8pm - 9pm (local time), hopefully moving to GB3AC after the first half hour (check both repeaters).
+* GB7BS Saturdays 7pm - 8pm (local time), this is Mat's South West Cluster TS2 TG950 (10 repeaters) net.
 
 ## Contact us
 
