@@ -27,18 +27,17 @@ To find out more about Amateur Radio visit the Radio Society of Great Britain (R
 * ​Join our new mailing list: [CLICKME](https://groups.google.com/forum/?nomobile=true#!forum/mx0nbc/join){:target="_blank"}
 * Subscribe via RSS feed instead: [CLICKME​](https://groups.google.com/forum/feed/mx0nbc/msgs/rss.xml?num=15){:target="_blank"}
 * GB3AC is now operating from NBARC: `RX: 430.975 | TX: 438.575 | CTCSS: 94.8Hz`
-* <div style="color: orangered;">New programme released for 2022. Use above link.</div>
 
 ## Upcoming talks and events
 
-* August 5th Shack Maintenance + Training
-* August 12th Show and Tell, bring along anything of interest. A small prise for generating the most interest.
-* August 19th General Meeting + Training
-* August 26th Round Table. Find an expert to answer your questions.
+* Nov 4th Christmas Meal Planning & Open Committee Meeting
+* Nov 11th Table Top Sale no sellers fee (Just The Club’s Door Fee)
+* Nov 18th General Meeting (remember the christmas meal) 
+* Nov 25th WSPR The Easy Way by Paul G8YMM
 
 ## Courses
 
-* <div style="color: orangered;">Training for the Advance licence is to start the 2nd week of February 2022.</div>
+* <div style="color: orangered;">Training for the Advance licence is running.</div>
 * Contact our Training Manager: Ian Conibear (G4TAH) for more info: [training@nbarc.org.uk](mailto:training@nbarc.org.uk)
 
 ## Club nets
