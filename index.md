@@ -26,13 +26,14 @@ To find out more about Amateur Radio visit the Radio Society of Great Britain (R
 * ​Join our new mailing list: [CLICKME](https://groups.google.com/forum/?nomobile=true#!forum/mx0nbc/join){:target="_blank"}
 * Subscribe via RSS feed instead: [CLICKME​](https://groups.google.com/forum/feed/mx0nbc/msgs/rss.xml?num=15){:target="_blank"}
 * GB3AC is now operating from NBARC: `RX: 430.975 | TX: 438.575 | CTCSS: 94.8Hz`
+* <div style="color: orangered;">Please read the latest Q5 for an important notice regarding the clubs address</div>
 
 ## Upcoming talks and events
 
-* Apr 28th Quiz Night With Prizes
-* May 5th General Meeting
-* May 13th and 14th Mills on the Air (Saturday and Sunday)
-* <div style="color: orangered;">Commemorating Flight 777 (30/05/2023 - 03/06/2023 inc</div>
+* <div style="color: orangered;">4th August Good bye to SHE7 The Last Meeting at SHE7</div>
+* 11th August First Meeting at Filton Community
+* 18th Aug Meeting at Filton Community
+* 25th Aug No Meeting Bank holiday weekend 
 
 ## Courses
 
