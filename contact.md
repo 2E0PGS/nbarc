@@ -17,18 +17,13 @@ nav: true
 ## Club address
 
 ```
-SHE 7 Building,
-Braemar Ave,
-Filton,
-Bristol,
-BS7 0TD,
-United Kingdom
+Please read the latest Q5 for an important notice regarding the clubs address
 ```
 
 ### Coordinates
 
 ```
-Latitude: 51.501493 Longitude: -2.580307
+Please read the latest Q5 for an important notice regarding the clubs address
 ```
 
 {% include contact-form.html %}

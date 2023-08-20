@@ -11,7 +11,7 @@ description: Homepage
 
 The North Bristol Amateur Radio Club was formed over 30 years ago by people interested in Amateur Radio.
 
-We meet Friday evenings from 7:00pm to 10:00pm at the SHE7 building in Braemar Crescent, Filton, Bristol (behind the HSBC bank).
+We meet Friday evenings from 7:00pm to 10:00pm.
 
 Activities include training courses, radio operation, talks, contests, constructing and of course socialising.
 
@@ -55,4 +55,4 @@ To find out more about Amateur Radio visit the Radio Society of Great Britain (R
 
 ### Club address
 ​
-SHE 7 Building, Braemar Ave, Filton, Bristol, BS7 0TD, United Kingdom
+Please read the latest Q5 for an important notice regarding the clubs address
