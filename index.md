@@ -26,14 +26,15 @@ To find out more about Amateur Radio visit the Radio Society of Great Britain (R
 * ​Join our new mailing list: [CLICKME](https://groups.google.com/forum/?nomobile=true#!forum/mx0nbc/join){:target="_blank"}
 * Subscribe via RSS feed instead: [CLICKME​](https://groups.google.com/forum/feed/mx0nbc/msgs/rss.xml?num=15){:target="_blank"}
 * GB3AC is now operating from NBARC: `RX: 430.975 | TX: 438.575 | CTCSS: 94.8Hz`
-* <div style="color: orangered;">Please read the latest Q5 for an important notice regarding the clubs address</div>
+* <div style="color: orangered;">New club address, please read the latest Q5: Page Community Association, Page Road, Staple Hill, Bristol BS16 4NE</div>
 
 ## Upcoming talks and events
 
-* <div style="color: orangered;">4th August Good bye to SHE7 The Last Meeting at SHE7</div>
-* 11th August First Meeting at Filton Community
-* 18th Aug Meeting at Filton Community
-* 25th Aug No Meeting Bank holiday weekend 
+* Sept 8 th Find around way around the new venue
+* Sept 15 th Prep for Avon Valley Railway 40’s event
+* Sept 16 th AVR 40’s Event
+* Sept 17 th AVR 40’s Event
+* Sept 22 nd Discuss 40’s event and changes for Railways On The Air
 
 ## Courses
 
@@ -42,8 +43,8 @@ To find out more about Amateur Radio visit the Radio Society of Great Britain (R
 ## Club nets
 
 * ​GB3BS Wednesdays 8pm - 9pm (local time).
-* GB3BS Sundays 8pm - 9pm (local time), hopefully moving to GB3AC after the first half hour (check both repeaters).
-* GB7BS Saturdays 7pm - 8pm (local time), this is Mat's South West Cluster TS2 TG950 (10 repeaters) net.
+* GB3BS Sundays 8pm - 9pm (local time)
+* ~~GB7BS Saturdays 7pm - 8pm (local time), this is Mat's South West Cluster TS2 TG950 (10 repeaters) net.~~
 
 ## Contact us
 
@@ -55,4 +56,4 @@ To find out more about Amateur Radio visit the Radio Society of Great Britain (R
 
 ### Club address
 ​
-Please read the latest Q5 for an important notice regarding the clubs address
+Page Community Association, Page Road, Staple Hill, Bristol BS16 4NE
