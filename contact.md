@@ -17,13 +17,13 @@ nav: true
 ## Club address
 
 ```
-Please read the latest Q5 for an important notice regarding the clubs address
+Page Community Association, Page Road, Staple Hill, Bristol BS16 4NE
 ```
 
 ### Coordinates
 
 ```
-Please read the latest Q5 for an important notice regarding the clubs address
+51.481230, -2.509050
 ```
 
 {% include contact-form.html %}
