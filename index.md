@@ -9,8 +9,7 @@ description: Homepage
 
 <div style="color: orangered; font-size: 20px">We have moved to a new venue</div>
 <div style="color: orangered; font-size: `8px">Address: Page Community Association, Page Road, Staple Hill, Bristol BS16 4NE</div>
-<div style="color: orangered; font-size: `8px">Please read Q5 for more information</div>
-
+<div style="color: orangered; font-size: `8px">Please read Q5 for more information</div><br>
 
 ## About us
 
