@@ -7,6 +7,8 @@ description: Homepage
 
 # Welcome to NBARC website
 
+<div style="color: orangered; font-size: 20px">New club address, please read the latest Q5: Page Community Association, Page Road, Staple Hill, Bristol BS16 4NE</div>
+
 ## About us
 
 The North Bristol Amateur Radio Club was formed over 30 years ago by people interested in Amateur Radio.
@@ -25,8 +27,11 @@ To find out more about Amateur Radio visit the Radio Society of Great Britain (R
 
 * ​Join our new mailing list: [CLICKME](https://groups.google.com/forum/?nomobile=true#!forum/mx0nbc/join){:target="_blank"}
 * Subscribe via RSS feed instead: [CLICKME​](https://groups.google.com/forum/feed/mx0nbc/msgs/rss.xml?num=15){:target="_blank"}
-* GB3AC is now operating from NBARC: `RX: 430.975 | TX: 438.575 | CTCSS: 94.8Hz`
 * <div style="color: orangered;">New club address, please read the latest Q5: Page Community Association, Page Road, Staple Hill, Bristol BS16 4NE</div>
+	
+	* The free car park is just opposite and another car park is just along the road.
+	* We meet in room 4 and room 3 is available for training or a quiet area for playing radio when required.
+	* Visitors entrance is as normal these days, by door buzzer, just announce your arrival to the staff. Members however have door access code. Please park legally, there are bays for disabled and Page Community permit holders only.
 
 ## Upcoming talks and events
 
@@ -42,9 +47,8 @@ To find out more about Amateur Radio visit the Radio Society of Great Britain (R
 
 ## Club nets
 
-* ​GB3BS Wednesdays 8pm - 9pm (local time).
+* ​GB3BS Wednesdays 8pm - 9pm (local time)
 * GB3BS Sundays 8pm - 9pm (local time)
-* ~~GB7BS Saturdays 7pm - 8pm (local time), this is Mat's South West Cluster TS2 TG950 (10 repeaters) net.~~
 
 ## Contact us
 

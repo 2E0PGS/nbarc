@@ -1,7 +1,7 @@
 ---
 title: Events
 description: Club events
-nav: true
+nav: false
 ---
 
 {% include main-template.md %}
