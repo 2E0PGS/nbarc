@@ -7,7 +7,9 @@ description: Homepage
 
 # Welcome to NBARC website
 
-<div style="color: orangered; font-size: 20px">New club address, please read the latest Q5: Page Community Association, Page Road, Staple Hill, Bristol BS16 4NE</div>
+<div style="color: orangered; font-size: 20px">We have moved to a new venue</div>
+<div style="color: orangered; font-size: `8px">Address: Page Community Association, Page Road, Staple Hill, Bristol BS16 4NE</div>
+<div style="color: orangered; font-size: `8px">Please read Q5 for more information</div>
 
 ## About us
 
