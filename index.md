@@ -37,11 +37,12 @@ To find out more about Amateur Radio visit the Radio Society of Great Britain (R
 
 ## Upcoming talks and events
 
-* Sept 8 th Find around way around the new venue
-* Sept 15 th Prep for Avon Valley Railway 40’s event
-* Sept 16 th AVR 40’s Event
-* Sept 17 th AVR 40’s Event
-* Sept 22 nd Discuss 40’s event and changes for Railways On The Air
+* Oct 6th General Meeting
+* Oct 13th Trap Dipole as used on Flight 777
+* Oct 20st General Meeting
+* Oct 27th Film Night Film of club events from 2018
+* Nov 1st Q5 Published with new events calendar
+* Nov 8th Prep for Christmas Meal (Yes, Christmas Already)
 
 ## Courses
 

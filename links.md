@@ -18,3 +18,4 @@ nav: true
 * [RSS feed](https://groups.google.com/forum/feed/mx0nbc/msgs/rss.xml?num=15){:target="_blank"}
 * [South Gloucestershire Repeaters](http://sgrepeaters.co.uk/)
 * [BRISTOL 70cms REPEATER GROUP](https://gb7bs.com/)
+* [The Bristol 6m Repeater Net (GB3ZY)](http://www.radisol.com/bristol-repeater-net-GB3ZY/)
