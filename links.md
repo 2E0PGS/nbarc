@@ -16,6 +16,6 @@ nav: true
 * [NBARC Facebook page​](https://www.facebook.com/pages/North-Bristol-Amateur-Radio-Club-NBARC/159859407455429){:target="_blank"}
 * [Mailing list](https://groups.google.com/forum/?nomobile=true#!forum/mx0nbc/join){:target="_blank"}
 * [RSS feed](https://groups.google.com/forum/feed/mx0nbc/msgs/rss.xml?num=15){:target="_blank"}
-* [South Gloucestershire Repeaters](http://sgrepeaters.co.uk/)
-* [BRISTOL 70cms REPEATER GROUP](https://gb7bs.com/)
-* [The Bristol 6m Repeater Net (GB3ZY)](http://www.radisol.com/bristol-repeater-net-GB3ZY/)
+* [South Gloucestershire Repeaters](http://sgrepeaters.co.uk/){:target="_blank"}
+* [BRISTOL 70cms REPEATER GROUP](https://gb7bs.com/){:target="_blank"}
+* [The Bristol 6m Repeater Net (GB3ZY)](http://www.radisol.com/bristol-repeater-net-GB3ZY/){:target="_blank"}
