@@ -37,9 +37,6 @@ To find out more about Amateur Radio visit the Radio Society of Great Britain (R
 
 ## Upcoming talks and events
 
-* Oct 6th General Meeting
-* Oct 13th Trap Dipole as used on Flight 777
-* Oct 20st General Meeting
 * Oct 27th Film Night Film of club events from 2018
 * Nov 1st Q5 Published with new events calendar
 * Nov 8th Prep for Christmas Meal (Yes, Christmas Already)
