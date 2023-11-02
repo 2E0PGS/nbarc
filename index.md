@@ -37,9 +37,9 @@ To find out more about Amateur Radio visit the Radio Society of Great Britain (R
 
 ## Upcoming talks and events
 
-* Oct 27th Film Night Film of club events from 2018
-* Nov 1st Q5 Published with new events calendar
-* Nov 8th Prep for Christmas Meal (Yes, Christmas Already)
+* Nov 3rd Prep for Christmas Meal (Yes, Christmas Already)
+* Nov 10 th Assemble a Hot Spot with Ian, G4TAH
+* Nov 24 th Talk on The Bus The Digital Bus by Dennis M0IYQ
 
 ## Courses
 
