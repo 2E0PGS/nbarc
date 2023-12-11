@@ -37,9 +37,10 @@ To find out more about Amateur Radio visit the Radio Society of Great Britain (R
 
 ## Upcoming talks and events
 
-* Nov 3rd Prep for Christmas Meal (Yes, Christmas Already)
-* Nov 10 th Assemble a Hot Spot with Ian, G4TAH
-* Nov 24 th Talk on The Bus The Digital Bus by Dennis M0IYQ
+* Dec 15th Make Your Traps
+* Dec 22nd Christmas meal
+* Dec 29th Holiday Period No Meeting
+* Jan 5th Finish Your Antenna Project 
 
 ## Courses
 
