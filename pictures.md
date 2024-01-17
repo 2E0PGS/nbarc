@@ -8,7 +8,7 @@ nav: true
 
 # Club photos
 
-For older photos see the archive: [Picture archive](https://nbarc.weebly.com/picture-archive.html){:target="_blank"}
+{% For older photos see the archive: [Picture archive](https://nbarc.weebly.com/picture-archive.html){:target="_blank"} %}
 
 ## Circa 1990 AGM
 

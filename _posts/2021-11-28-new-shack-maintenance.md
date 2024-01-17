@@ -3,6 +3,7 @@ title: New shack maintenance
 date: 2021-11-28 17:00:19
 author: Peter Stevenson
 categories: events
+archived: true
 ---
 
 {% include main-template.md %}
