@@ -1,1 +1,1 @@
-![Banner]({{ site.baseurl }}/assets/images/front.jpg)
+![Banner]({{ site.baseurl }}/assets/images/banner.jpg)
