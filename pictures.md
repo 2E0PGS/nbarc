@@ -8,8 +8,6 @@ nav: true
 
 # Club photos
 
-For older photos see the archive: [Picture archive](https://nbarc.weebly.com/picture-archive.html){:target="_blank"}
-
 ## Gallery
 
 {% for image in site.static_files reversed %}{% if image.path contains 'images/collection' %}<img src="{{ site.baseurl }}{{ image.path }}" alt="image"/><br/>{% endif %}{% endfor %}
@@ -21,3 +19,7 @@ For older photos see the archive: [Picture archive](https://nbarc.weebly.com/pic
 ## 2018 AGM 
 
 ![2018-club-photo-agm.jpg](/assets/images/2018-club-photo-agm.jpg)
+
+## Older
+
+For older photos see the archive: [Picture archive](https://nbarc.weebly.com/picture-archive.html){:target="_blank"}
