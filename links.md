@@ -10,7 +10,6 @@ nav: true
 
 * [G8YMM (chairman)](https://www.qrz.com/db/G8YMM){:target="_blank"}
 * [2E0PGS (website admin)](http://www.m3pgs.co.uk/){:target="_blank"}
-* [Westrally (West of England radio rally)](http://www.westrally.org.uk/){:target="_blank"}
 * [RSGB (Radio Society of Great Britain)](https://rsgb.org/){:target="_blank"}
 * [NBARC Facebook group](https://www.facebook.com/groups/NBARC/){:target="_blank"}
 * [NBARC Facebook page​](https://www.facebook.com/pages/North-Bristol-Amateur-Radio-Club-NBARC/159859407455429){:target="_blank"}
