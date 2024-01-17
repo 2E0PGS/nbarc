@@ -9,7 +9,7 @@ categories: events
 
 # Lighthoues on the air
 
-GB0AVL
+[GB0AVL](https://www.qrz.com/db/GB0AVL)
 
 Avonmouth Lights Lighthouses On The Air
 
@@ -30,3 +30,5 @@ Avonmouth Lights Lighthouses On The Air
 | PD1HS    | 2021-08-22 | 40m  | LSB  | JO32HI92 | Hendry Schutte    |
 | PD0FSB   | 2021-08-22 | 40m  | LSB  | JO22jp   | Frits Berg        |
 | DJ9AS    | 2021-08-22 | 40m  | LSB  | JO30dw   | Arne Spangenberg  |
+
+{% for image in site.static_files reversed %}{% if image.path contains 'assets/2021-08-22' %}<img src="{{ site.baseurl }}{{ image.path }}" alt="image"/><br/>{% endif %}{% endfor %}
