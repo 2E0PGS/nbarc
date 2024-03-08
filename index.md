@@ -37,8 +37,6 @@ To find out more about Amateur Radio visit the Radio Society of Great Britain (R
 
 ## Upcoming talks and events
 
-* Feb 9th Lab View Demo Dennis, M0IYQ
-* Feb 23rd Round Table:- Members Tell Us What Events Should The Club Cover?
 * Mar 8th Software Defined Radio By Mike M1ARI
 * Mar 22nd Quiz with Prizes Before the Easter Break
 
