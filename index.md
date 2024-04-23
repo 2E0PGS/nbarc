@@ -37,8 +37,7 @@ To find out more about Amateur Radio visit the Radio Society of Great Britain (R
 
 ## Upcoming talks and events
 
-* Mar 8th Software Defined Radio By Mike M1ARI
-* Mar 22nd Quiz with Prizes Before the Easter Break
+* Apr 26th Solar Power for your Shed, Shack or portable setup
 
 ## Courses
 
