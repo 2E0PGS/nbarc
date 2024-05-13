@@ -37,7 +37,9 @@ To find out more about Amateur Radio visit the Radio Society of Great Britain (R
 
 ## Upcoming talks and events
 
-* Apr 26th Solar Power for your Shed, Shack or portable setup
+* May 17 th Mills Results and General meeting
+* May 24 th Bank Holiday Weekend No Meeting
+* May 31 st QRP Workshop
 
 ## Courses
 
