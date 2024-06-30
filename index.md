@@ -37,9 +37,7 @@ To find out more about Amateur Radio visit the Radio Society of Great Britain (R
 
 ## Upcoming talks and events
 
-* June 14th Get ready for Meals on the hill
-* June 15th Meals On The Hill @ Tog Hill + 6m Contest (Book if you require food & bring your own mug)
-* June 21st QRP in Page Park (Mid Summers Day)
+*
 
 ## Courses
 
