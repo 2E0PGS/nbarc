@@ -37,8 +37,7 @@ To find out more about Amateur Radio visit the Radio Society of Great Britain (R
 
 ## Upcoming talks and events
 
-* July 19 th Risk Assessments workshop, How To:- By Mat G7FBD
-* July 26 th Sale of Unwanted Club Items
+* 
 
 ## Courses
 
