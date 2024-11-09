@@ -37,10 +37,7 @@ To find out more about Amateur Radio visit the Radio Society of Great Britain (R
 
 ## Upcoming talks and events
 
-* Aug 30 th Closing date for Q5 competition (Prize awarded)
-* Sept 6 th Film Night :- What is Sporadic “E”
-* Sept 13 th Antenna Workshop
-* Sept 20 th Antenna workshop
+* 
 
 ## Courses
 
