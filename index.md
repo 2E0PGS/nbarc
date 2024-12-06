@@ -37,10 +37,11 @@ To find out more about Amateur Radio visit the Radio Society of Great Britain (R
 
 ## Upcoming talks and events
 
-* Nov 1 st This Q5 Published Christmas Meal Planning
-* Nov 8 th On Air night
-* Nov 15 th General Meeting & Workshops
-* Nov 22 nd Antenna workshops
+* Dec 6th Last day for your £5 deposit for the Christmas meal
+* Dec 13th Free Christmas Meal and Free Bar
+* Dec 20th Club workshop:- Special events for next year
+* Dec 27th Christmas Break No Meeting
+* Jan 3rd Holiday Break No Meeting
 
 ## Courses
 
