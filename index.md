@@ -37,11 +37,10 @@ To find out more about Amateur Radio visit the Radio Society of Great Britain (R
 
 ## Upcoming talks and events
 
-* Dec 6th Last day for your £5 deposit for the Christmas meal
-* Dec 13th Free Christmas Meal and Free Bar
-* Dec 20th Club workshop:- Special events for next year
-* Dec 27th Christmas Break No Meeting
-* Jan 3rd Holiday Break No Meeting
+* Jan 10th High Altitude Balloons video
+* **Jan 17th AGM As usual, it is important that you attend.**
+* Jan 24th Balloon Workshop with the Balloon Team
+* Jan 31st Balloon Workshop with the Balloon Team. Q5 published 
 
 ## Courses
 
