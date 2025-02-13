@@ -37,10 +37,10 @@ To find out more about Amateur Radio visit the Radio Society of Great Britain (R
 
 ## Upcoming talks and events
 
-* Jan 10th High Altitude Balloons video
-* **Jan 17th AGM As usual, it is important that you attend.**
-* Jan 24th Balloon Workshop with the Balloon Team
-* Jan 31st Balloon Workshop with the Balloon Team. Q5 published 
+* Feb 14 th Power Supply Workshop. Project As published in Q5
+* Feb 28 th The Lansdown Repeaters in slides and film By Mat G7FBD/Mark
+* March 7 th Antenna workshops
+* Mar 14 th Balloon Project Introduction By Mat G7FBD
 
 ## Courses
 
