@@ -37,10 +37,13 @@ To find out more about Amateur Radio visit the Radio Society of Great Britain (R
 
 ## Upcoming talks and events
 
-* Feb 14 th Power Supply Workshop. Project As published in Q5
-* Feb 28 th The Lansdown Repeaters in slides and film By Mat G7FBD/Mark
-* March 7 th Antenna workshops
-* Mar 14 th Balloon Project Introduction By Mat G7FBD
+* Mar 28th Quiz Night (With Prizes)
+* Apr 4th On Air Night
+* Apr 11th Fun with SSTV (Slow Scan Television)
+* April 18th Good Friday No Meeting
+* April 25th Film Night
+* May 2nd Balloon Workshop with the Balloon Team. 
+* Saturday-Sunday May 10th & 11th Mills on the Air including Balloon Launch
 
 ## Courses
 
