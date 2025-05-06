@@ -37,13 +37,10 @@ To find out more about Amateur Radio visit the Radio Society of Great Britain (R
 
 ## Upcoming talks and events
 
-* Mar 28th Quiz Night (With Prizes)
-* Apr 4th On Air Night
-* Apr 11th Fun with SSTV (Slow Scan Television)
-* April 18th Good Friday No Meeting
-* April 25th Film Night
-* May 2nd Balloon Workshop with the Balloon Team. 
-* Saturday-Sunday May 10th & 11th Mills on the Air including Balloon Launch
+* May 9th Rummage Box Sale. Bring your items for £1 an item or less
+* May 10 th - 11 th Saturday/Sunday:-Mills on the air
+* May 23 rd Fun with SSTV (The Cancelled Event from April)
+* May 30 th Planning for Bodger’s Burgers (Who brings What)
 
 ## Courses
 
