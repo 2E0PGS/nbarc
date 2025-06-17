@@ -37,10 +37,13 @@ To find out more about Amateur Radio visit the Radio Society of Great Britain (R
 
 ## Upcoming talks and events
 
-* May 9th Rummage Box Sale. Bring your items for £1 an item or less
-* May 10 th - 11 th Saturday/Sunday:-Mills on the air
-* May 23 rd Fun with SSTV (The Cancelled Event from April)
-* May 30 th Planning for Bodger’s Burgers (Who brings What)
+* June 20th Longest Day (Well Almost) Meet at Page Park POTA & Radio Fun
+* June 27th General Meeting
+* July 4th Film night
+* July 11th General Meeting
+* July 18th Various HF antennas, How to set them up & what Balun to use
+* July 25th General Meeting
+* August 1st Q5 published Round Table at the Club 
 
 ## Courses
 
