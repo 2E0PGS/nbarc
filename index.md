@@ -37,13 +37,12 @@ To find out more about Amateur Radio visit the Radio Society of Great Britain (R
 
 ## Upcoming talks and events
 
-* June 20th Longest Day (Well Almost) Meet at Page Park POTA & Radio Fun
-* June 27th General Meeting
-* July 4th Film night
-* July 11th General Meeting
-* July 18th Various HF antennas, How to set them up & what Balun to use
-* July 25th General Meeting
-* August 1st Q5 published Round Table at the Club 
+* 5th Rummage Box Sale. Bring your items for £1 an item or less
+* 12th Guest Speaker:- RSGB By Andy, G7KNA,The Regional Manager
+* 19th General Meeting with club workshop (Dummy Loads)
+* 26th Prep for Railways On The Air
+* 27th Railways on the Air at Bitton Railway (Subject to New Manager’s permission)
+* 28th Railways on the Air at Bitton Railway (Subject to New Manager’s permission)
 
 ## Courses
 
