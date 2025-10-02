@@ -7,9 +7,13 @@ description: Homepage
 
 # Welcome to NBARC website
 
-<div style="color: orangered; font-size: 20px">We have moved to a new venue</div>
-<div style="color: orangered; font-size: `8px">Address: Page Community Association, Page Road, Staple Hill, Bristol BS16 4NE</div>
-<div style="color: orangered; font-size: `8px">Please read Q5 for more information</div><br>
+NBARC took part in this years annual  "Railways On The Air" (ROTA) held at Avon Valley Railway using the special event callsign GB0AVR.
+
+We are pleased to say, the event was well supported thus culminating in 34 out of the 55 registered ROTA stations being worked.
+
+A big thank you to those who organised, helped and operated throughout the weekend.
+
+{% for image in site.static_files reversed %}{% if image.path contains 'assets/2025-09-27' %}<img src="{{ site.baseurl }}{{ image.path }}" alt="image"/><br/>{% endif %}{% endfor %}
 
 ## About us
 
@@ -32,17 +36,16 @@ To find out more about Amateur Radio visit the Radio Society of Great Britain (R
 * <div style="color: orangered;">New club address, please read the latest Q5: Page Community Association, Page Road, Staple Hill, Bristol BS16 4NE</div>
 	
 	* The free car park is just opposite and another car park is just along the road.
-	* We meet in room 4 and room 3 is available for training or a quiet area for playing radio when required.
+	* We meet in room 4 and room 3 is available for training or a quiet area for operating radio when required.
 	* Visitors entrance is as normal these days, by door buzzer, just announce your arrival to the staff. Members however have door access code. Please park legally, there are bays for disabled and Page Community permit holders only.
 
 ## Upcoming talks and events
 
-* 5th Rummage Box Sale. Bring your items for £1 an item or less
-* 12th Guest Speaker:- RSGB By Andy, G7KNA,The Regional Manager
-* 19th General Meeting with club workshop (Dummy Loads)
-* 26th Prep for Railways On The Air
-* 27th Railways on the Air at Bitton Railway (Subject to New Manager’s permission)
-* 28th Railways on the Air at Bitton Railway (Subject to New Manager’s permission)
+* 3rd Guest Speaker:- RAYNET By Mike, M0DXV. (What is it, and how to join).
+* 10th General Club Night with Club Workshop
+* 17th Autumn Quiz Night
+* 24th General Club Night
+* 31st Make an UN-UN for an End Fed Antenna
 
 ## Courses
 
