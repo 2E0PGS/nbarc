@@ -33,7 +33,7 @@ To find out more about Amateur Radio visit the Radio Society of Great Britain (R
 
 * ​Join our new mailing list: [CLICKME](https://groups.google.com/forum/?nomobile=true#!forum/mx0nbc/join){:target="_blank"}
 * Subscribe via RSS feed instead: [CLICKME​](https://groups.google.com/forum/feed/mx0nbc/msgs/rss.xml?num=15){:target="_blank"}
-* <div style="color: orangered;">New club address, please read the latest Q5: Page Community Association, Page Road, Staple Hill, Bristol BS16 4NE</div>
+* <div style="color: orangered;">New club address: Page Community Association, Page Road, Staple Hill, Bristol BS16 4NE</div>
 	
 	* The free car park is just opposite and another car park is just along the road.
 	* We meet in room 4 and room 3 is available for training or a quiet area for operating radio when required.
