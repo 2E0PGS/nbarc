@@ -41,11 +41,10 @@ To find out more about Amateur Radio visit the Radio Society of Great Britain (R
 
 ## Upcoming talks and events
 
-* 3rd Guest Speaker:- RAYNET By Mike, M0DXV. (What is it, and how to join).
-* 10th General Club Night with Club Workshop
-* 17th Autumn Quiz Night
-* 24th General Club Night
-* 31st Make an UN-UN for an End Fed Antenna
+* 7th Instruction on Soldering by John G4WOD
+* 14th Antenna construction 2M Slim Jim
+* 21st General Meeting with Constructional Workshop
+* 28th Film Night The Radio 4 Shipping Forecast (By Mat G7FBD)
 
 ## Courses
 
